@@ -1,0 +1,7 @@
+Popular fizzbuzz exercise in Haskell as a beginner's attempt to learn the language.
+
+Load into ghci and invoke by calling:
+
+	fizzBuzz [x..s] 
+
+x and s can be whatever you like.  I have not played around with s < x, but I have doubts it would work.
